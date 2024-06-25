@@ -1,6 +1,6 @@
 import axios from "axios";
 
-axios.defaults.baseURL = "http://localhost:8080";
+axios.defaults.baseURL = "https://localcropmarketplace-16lb.onrender.com";
 
 const http = {
   get: axios.get,
