@@ -1,0 +1,5 @@
+{
+  "name": "default",
+  "db": "mongodb+srv://ameshawahalathanthri:crop123@cropmarket.ekeeedk.mongodb.net/?retryWrites=true&w=majority&appName=CropMarket",
+  "jwtPrivateKey": "jwt-secret"
+}
